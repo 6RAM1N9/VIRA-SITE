@@ -1,0 +1,268 @@
+@media (max-width: 2560px) {
+    #first-block-button {
+        font-size: 25px;
+    }
+}
+@media (max-width: 1441px) {
+    #bold-text {
+        font-size: 40px;
+    }
+    .name-block {
+        font-size: 30px;
+    }
+    #casual-text {
+        font-size: 27px;
+    }
+    #first-block-button {
+        font-size: 18px;
+    }
+    #first-block-text {
+        padding-top: 200px;
+    }
+    #what-we-do {
+        height: 600px;
+    }
+    .name-plitka {
+        font-size: 20px;
+    }
+    .text-plitka {
+        font-size: 17px;
+    }
+    #expert-img, #mini-block {
+        height: 350px;
+    }
+    #expert {
+        height: 650px;
+    }
+    #quote-text {
+        font-size: 25px;
+    }
+    #quote-author {
+        font-size: 20px;
+    }
+    #our-workstations {
+        height: 700px;
+    }
+    #video {
+        height: 250px;
+    }
+    #our-team {
+        height: 700px;
+    }
+    #newsletter {
+        height: 200px;
+    }
+}
+@media (max-width: 1225px) {
+    .name-block {
+        font-size: 30px;
+    }
+}
+@media (max-width: 1200px) {
+    .plitka, .workstation {
+        width: 300px;
+    }
+    #all-plitka, #all-workstations {
+        width: 900px;
+    }
+    #signature {
+        width: 16%;
+        margin-left: 42%;
+    }
+    .workstation-img {
+        width: 70%;
+    }
+    .name-plitka {
+        font-size: 20px;
+    }
+    #our-workstations {
+        height: 600px;
+    }
+    #our-team {
+        height: 650px;
+    }
+}
+
+@media (max-width: 1110px) {
+    #expert-img, #mini-block {
+        float: none;
+        width: 100%;
+    }
+    #buttons-expert {
+        margin-top: 30px;
+    }
+    #mini-block {
+        height: 350px;
+    }
+    #text-expert {
+        font-size: 22px;
+    }
+    #expert-img {
+        height: 350px;
+    }
+    #under-img-expert {
+        height: 300px;
+    }
+    #expert {
+        height: 1000px;
+    }
+    .video-text {
+        font-size: 35px;
+    }
+    #video {
+        height: 200px;
+    }
+    #video-img {
+        width: 70px;
+        height: 70px;
+    }
+    #text-news {
+        font-size: 30px;
+    }
+    #input-news {
+        width: 30%;
+    }
+    #news-button {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 1000px) {
+    #buttons-expert {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 900px) {
+    #what-we-do {
+        height: 1600px;
+    }
+    #our-workstations {
+        height: 1600px;
+    }
+    #all-plitka {
+        width: 300px;
+    }
+    .plitka {
+        float: none;
+        margin-bottom: 150px;
+    }
+    #signature {
+        width: 20%;
+        margin-left: 40%;
+    }
+    #all-workstations {
+        width: 300px;
+    }
+    .workstation {
+        width: 300px;
+        float: none;
+        margin-bottom: 150px;
+    }
+    #our-team {
+        height: 1600px;
+    }
+    #contact {
+        height: 900px;
+    }
+    .plitka.con {
+        height: 100px;
+    }
+}
+
+@media (max-width: 700px) {
+    #quote-text {
+        font-size: 22px;
+    }
+    #signature {
+        width: 14%;
+        margin-left: 43%;
+    }
+    #text-expert {
+        font-size: 20px;
+    }
+    #quote-author {
+        font-size: 18px;
+    }
+    .video-text {
+        font-size: 25px;
+    }
+    #video-img {
+        width: 50px;
+        height: 50px;
+    }
+    #input-news {
+        width: 25%;
+    }
+    #news-button {
+        font-size: 20px;
+    }
+    #video {
+        height: 150px;
+    }
+    #input-news {
+        font-size: 18px;
+    }
+    .plitka {
+        margin-bottom: 100px;
+    }
+    .workstation {
+        margin-bottom: 100px;
+    }
+    #our-workstations {
+        height: 1500px;
+    }
+    .krug {
+        width: 100px;
+        height: 100px;
+    }
+    .team-img {
+        width: 50%;
+        margin-left: 25%;
+    }
+    #contact {
+        height: 800px;
+    }
+    #footer {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    #signature {
+        width: 30%;
+        margin-left: 35%;
+    }
+    #bold-text {
+        font-size: 35px;
+    }
+    #casual-text {
+        font-size: 25px;
+    }
+    #name-block {
+        font-size: 30px;
+    }
+    #input-news {
+        width: 40%;
+    }
+    #news-button {
+        font-size: 15px;
+    }
+    #newsletter {
+        height: 250px;
+    }
+}
+
+@media (max-width: 450px) {
+    #signature {
+        width: 40%;
+        margin-left: 30%;
+    }
+    .video-text {
+        font-size: 20px;
+    }
+    #video-img {
+        width: 30px;
+        height: 30px;
+    }
+}
